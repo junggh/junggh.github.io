@@ -13,12 +13,12 @@ date: 2020-11-22 10:26:28 -0400
   [static page][staticpage-link] 정적페이지 생성  
   
 11 주차 : 개인별 역할 분담 후 각자 기초 지식 학습  
-  Deep Residual Network
-  Feedforward Neural Network
-  Convolutional Neural Network
-  Language Model (RNN-LM)
-  Recurrent Neural Network
-  Bidirectional Recurrent Neural Network(BRNN)
+  Deep Residual Network : 고경희  
+  Feedforward Neural Network : 김진욱  
+  Convolutional Neural Network : 이송재  
+  Language Model (RNN-LM) : 이태기  
+  Recurrent Neural Network : 정재민  
+  Bidirectional Recurrent Neural Network(BRNN) : 조영민
   
   [pytorch-link]: http://www.github.com/yunjey/pytorch-tutorial
   [pysnooper-link]: https://github.com/cool-RR/PySnooper
