@@ -1,7 +1,6 @@
 ---
 title: "OSS 선정 프로젝트 - Pytorch Tutorial"
 date: 2020-11-22 08:26:28 -0400
-categories: OSS
 ---
 1. 프로젝트 설명
 2. 프로젝트 선정 과정
